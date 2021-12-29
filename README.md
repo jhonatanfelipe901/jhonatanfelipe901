@@ -1,4 +1,4 @@
-### Hi there, Welcome to my Github 👋
+### Hi there, welcome to my github 👋
 
 I'm Jhonatan Felipe, thanks for visiting my homepage!
 
