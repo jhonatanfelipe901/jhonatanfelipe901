@@ -6,7 +6,7 @@ I'm Jhonatan Felipe, thanks for visiting my homepage!
 
 🌍 Brazil, São Paulo, SP.
 
-😎 My hobbies are Games🎮 and Travel🛫
+😎 My hobbies are Games 🎮 and Travel 🛫
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatanfelipe901&show_icons=true&theme=dark)](https://github.com/jhonatanfelipe901/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanfelipe901&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
