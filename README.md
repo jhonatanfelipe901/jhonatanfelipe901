@@ -6,7 +6,6 @@ I'm Jhonatan Felipe, and you are very welcome here!
 
 🌍 I’m currently living in Galway, Ireland.
 
-📹 I'm curretly helping the Dev community by videos on 
 
 😎 My hobbies are Family👪, Travel🛫, Cycling🚲, Games🎮 and Cooking👨‍🍳
 
