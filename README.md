@@ -19,7 +19,7 @@ I'm Jhonatan Felipe, and you are very welcome here!
   <img align="center" alt="Jhonatan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Jhonatan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jhonatan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Jhonatan-pic" height="160" style="border-radius:50px;" src="https://user-images.githubusercontent.com/49998080/147710072-724a42ad-e597-49dc-a4c5-80020b49831e.jpeg?width=690height=690">
+  <img align="right" alt="Jhonatan-pic" height="160" style="border-radius:50px;" src="https://user-images.githubusercontent.com/49998080/147710663-2627844d-1c2d-4f44-a51f-c19dd469638d.PNG?width=690height=690">
 </div>
 
   ##
