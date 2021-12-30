@@ -2,7 +2,7 @@
 
 I'm Jhonatan Felipe, thanks for visiting my homepage!
 
-💻 FullStack Developer - .NET, Angular and SQL. (Since 06.18)
+💻 FullStack Developer - .NET, Angular and SQL. (06.18 - Actually)
 
 🌍 Brazil, São Paulo, SP.
 
